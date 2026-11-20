@@ -1,3 +1,4 @@
+[![Built with askThili](https://msrit.ask.thili.ai/api/v1/public/projects/wkfhxdbd8p/badge.svg)](https://msrit.ask.thili.ai/b/wkfhxdbd8p)
 # Recipe Step Autocompleter
 
 A local command-line application that completes partial cooking instructions using a trigram (n-gram) language model. It trains on the included recipe-instruction corpus and does not need an API key, internet connection, hosted service, or GPU.
